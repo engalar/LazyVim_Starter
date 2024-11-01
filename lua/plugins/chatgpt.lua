@@ -1,5 +1,7 @@
 return {
-  "jackMort/ChatGPT.nvim",
+  -- "jackMort/ChatGPT.nvim",
+  "engalar/ChatGPT.nvim",
+  branch = "glm",
   event = "VeryLazy",
   config = function()
     local chatgpt = require("chatgpt")
