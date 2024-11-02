@@ -1,6 +1,7 @@
 return {
   -- "jackMort/ChatGPT.nvim",
   "engalar/ChatGPT.nvim",
+  url = "git@github.com:engalar/ChatGPT.nvim.git",
   branch = "glm",
   event = "VeryLazy",
   config = function()
